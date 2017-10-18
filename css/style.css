@@ -15,6 +15,9 @@ selector {
 */
 
 /* Type selector */
+img, video, audio {
+  max-width: 100%;
+}
 
 p { /* select all <p> */
   font-size: 1em; /* 16px, ?pt, 100%, 1em */
