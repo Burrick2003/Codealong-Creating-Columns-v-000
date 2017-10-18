@@ -109,3 +109,10 @@ figcaption {
 .first {
   margin-left: 0%;
 }
+/* Sections */
+
+section {
+  margin-bottom: 20px;
+  padding: 20px;
+  
+}
